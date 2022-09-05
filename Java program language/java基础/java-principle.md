@@ -1,3 +1,5 @@
+java principle
+
 # java特点
 1.	面向对象(oop)
 2.	健壮的
