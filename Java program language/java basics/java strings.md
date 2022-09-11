@@ -1,3 +1,5 @@
+java strings
+
 # java字符串概念
 >java字符串就是Unicode字符序列。
 java没有内置的字符串类型，而是在标准java类库中提供了一个预定类，很自然地叫做String
