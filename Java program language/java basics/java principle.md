@@ -7,6 +7,10 @@ java principle
 4.	解释性：解释性语言，编译后的代码，不能直接被机器执行，需要解释器来执行；编译性语言，编译后的代码，可以直接被机器执行，c/c++。
 # java应用程序的运行机制
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/f4febe07d96d4f3dbc13d4d3e6557376.jpeg#pic_center)
+
+# Java运行原理
+![在这里插入图片描述](https://img-blog.csdnimg.cn/473cac15b0a744b8aa7b1c90c79d64c3.png)
+
 # java程序基本组成
 
 ```java
